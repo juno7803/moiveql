@@ -1,0 +1,9 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "description": "Movei API with Graphql",
+  "main": "index.js",
+  "repository": "https://github.com/juno7803/moiveql.git",
+  "author": "Juno Lee<junolee7803@gmail.com>",
+  "license": "MIT"
+}
